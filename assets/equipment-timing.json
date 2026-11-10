@@ -201,7 +201,7 @@
   "209":{"any":{"time":"第22幕","method":"撿拾"},"trueEnding":{"time":"第22幕","method":"撿拾"}},
   "210":{"any":{"time":"第21幕戰後","method":[207,183],"ingredientTimes":["第3幕","第21幕"]},"trueEnding":{"time":"第21幕戰後","method":[207,183],"ingredientTimes":["第3幕","第21幕"]}},
   "211":{"any":{"time":"第8幕","method":"撿拾"},"trueEnding":{"time":"第8幕","method":"撿拾"}},
-  "212":{"any":{"time":"第21幕戰後","method":[207,184],"ingredientTimes":["第3幕","第21幕戰後"]},"trueEnding":{"time":"第21幕戰後（路線用）","method":[207,184],"ingredientTimes":["第3幕","第21幕戰後"]}},
+  "212":{"any":{"time":"第21幕戰後","method":[207,184],"ingredientTimes":["第3幕","第21幕戰後"]},"trueEnding":{"time":"第21幕戰後","method":[207,184],"ingredientTimes":["第3幕","第21幕戰後"]}},
   "213":{"any":{"time":"第15幕戰後","method":[169,191],"ingredientTimes":["第15幕戰後","第14幕前"]},"trueEnding":{"time":"第15幕戰後","method":[169,191],"ingredientTimes":["第15幕戰後","第14幕前"]}},
   "214":{"any":{"time":"第17幕戰後","method":[175,181],"ingredientTimes":["第17幕","第12幕"]},"trueEnding":{"time":"第17幕戰後","method":[175,181],"ingredientTimes":["第17幕","第12幕"]}},
   "215":{"any":{"time":"第23幕戰後","method":[252,177],"ingredientTimes":["第23幕","第4幕"]},"trueEnding":{"time":"第23幕戰後","method":[252,177],"ingredientTimes":["第23幕","第4幕"]}},
