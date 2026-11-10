@@ -6,11 +6,15 @@ var ye=e=>e.attribute===2&&e.result_type===0&&Number.isFinite(e.hit),C={xun:"迅
 
   <strong id="timing-note-title">真結局路線</strong>
 
-  <p>第23幕要走天炎嶺，第21幕的<strong>兩儀玄石</strong>留給珍瓏凈玉，<strong>雲龍珠</strong>留給魂翔之玉。要煉其他裝備，雲龍珠第23幕可補撿，兩儀玄石要等第28幕。</p>
+  <ul>
 
-  <p>夏侯儀自帶的冥華紫晶只有一份，要留給魂剎玉，再煉成第28幕修劍要用的七色瓔珞。<strong>五尊神令</strong>煉不了，夢想無雙、雷光天鎧和黃泉祭衣也一樣。</p>
+   <li>第23幕要走天炎嶺，第21幕的<strong>兩儀玄石</strong>留給珍瓏凈玉，<strong>雲龍珠</strong>留給魂翔之玉。要煉其他裝備，雲龍珠第23幕可補撿，兩儀玄石要等第28幕。</li>
 
-  <p>走天炎嶺會錯過黃泉幽徑的七岳神劍和八荒靈石，七色彩絹、玄烏玉雕也就煉不了。</p>
+   <li>夏侯儀自帶的冥華紫晶只有一份，要留給魂剎玉，再煉成第28幕修劍要用的七色瓔珞。<strong>五尊神令</strong>煉不了，夢想無雙、雷光天鎧和黃泉祭衣也一樣。</li>
+
+   <li>走天炎嶺會錯過黃泉幽徑的七岳神劍和八荒靈石，七色彩絹、玄烏玉雕也就煉不了。</li>
+
+  </ul>
 
  </aside><div class="table-scroll"><table class="item-table equipment-timing-table"><thead><tr>
 
