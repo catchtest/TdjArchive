@@ -11,7 +11,7 @@ def prepare(source, destination):
     for path in source.iterdir():
         if path.is_symlink():
             raise ValueError(f'Symbolic links cannot be published: {path}')
-        if path.is_file() and (path.suffix == '.html' or path.name in {'sitemap.xml', 'CNAME', 'image-cache-worker.js'}):
+        if path.is_file() and (path.suffix == '.html' or path.name in {'sitemap.xml', 'CNAME', 'cover.webp', 'image-cache-worker.js'}):
             shutil.copy2(path, destination / path.name)
         elif path.is_dir() and not path.name.startswith('.') and (path.name == 'assets' or (path / 'index.html').is_file()):
             shutil.copytree(path, destination / path.name,
