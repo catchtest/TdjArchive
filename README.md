@@ -22,5 +22,3 @@
 支援分類搜尋、表格排序與資料交叉查詢。點擊相關人物、物品、絕學或關卡，可查看對應資料。
 
 遊戲資料、美術及文字著作權屬原權利人。
-
-網站建置方式與格式研究收錄於 Builder 專案。[TdjArchiveBuilder](https://github.com/catchtest/TdjArchiveBuilder)
