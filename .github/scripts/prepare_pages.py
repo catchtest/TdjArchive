@@ -9,6 +9,8 @@ def prepare(source, destination):
         raise ValueError(f'Artifact directory already exists: {destination}')
     destination.mkdir(parents=True)
     for path in source.iterdir():
+        if path == destination:
+            continue
         if path.is_symlink():
             raise ValueError(f'Symbolic links cannot be published: {path}')
         if path.is_file() and (path.suffix == '.html' or path.name in {'sitemap.xml', 'CNAME', 'cover.webp', 'image-cache-worker.js'}):
